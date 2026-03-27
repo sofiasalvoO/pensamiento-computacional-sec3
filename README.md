@@ -1,2 +1,4 @@
 # pensamiento-computacional-sec3
-ejercicios en clase
+ejercicios y entregas curso pensamiento computacional
+
+
