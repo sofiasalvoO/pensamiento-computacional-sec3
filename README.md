@@ -47,5 +47,5 @@ Fui ajustando manualmente los valores y usando referencias visuales para lograr 
 
 ## Link al sketch en p5.js
 
-[Ver sketch](AQUI_VA_TU_LINK)
+[Ver sketch](https://editor.p5js.org/sofia.salvo/sketches/8BLUy8fKV)
 
