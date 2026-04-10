@@ -5,7 +5,7 @@
 - **Autor:** Iordanov  
 
 ### Imagen original
-![Obra original]![https://github.com/user-attachments/assets/3608c12e-e872-4b8f-abb9-e85821d9bb88]
+![Obra original](./imagenes/obra_original_iordanoff.jpg)
 
 ---
 
