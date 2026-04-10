@@ -5,7 +5,7 @@
 - **Autor:** Iordanov  
 
 ### Imagen original
-![Obra original](obra_original_iordanoff.jpg)
+![Obra original](imagenes/obra_original_iordanoff.jpg)
 
 ---
 
