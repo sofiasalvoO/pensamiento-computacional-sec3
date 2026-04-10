@@ -24,13 +24,16 @@ Para este paso primero cambie el tamaño de mi lienzo al mismo tamaño de la obr
 Fui fila por fila, ubicando primero los rectángulos de fondo y luego las figuras más complejas encima, respetando el orden de dibujo (capas), asi también manteniendo un orden de lectura.
 
 ### Decisiones de código
-En algunos casos reemplacé rectángulos delgados por líneas, utilizando `strokeWeight` para mantener el grosor. Esto simplificó el código sin perder la función visual.
+En algunos casos reemplacé rectángulos delgados por líneas, utilizando `strokeWeight` para mantener el grosor. Esto simplificó el código sin perder la función visual. Tambien decidí hacer los círculos con bordes en vez de solo círculos para que quedara igual a la imagen original, así poder simplificar los codigos y se viera mucho más ordenado 
 
 ### Dificultades
-Tuve dificultades con la posición de algunas figuras, especialmente triángulos y círculos, ya que requerían mucha precisión.
+Lo que mas me  dificulto de este trabajo fue lograr que las proporciones coincidieran con las de la imagen original. Por algun pequeño error en las coordenadas hacía que la composición se viera desalineada y no quedaba identico al de la imagen original.
+También los triángulos se me dificultaron bastante más que otras figuras, ya que requieren coordinar tres puntos con precisión.
+Otro desafío fue trabajar con los círculos centrales, especialmente al combinar relleno y borde para que se parecieran al original.
+
 
 ### Soluciones
-Fui ajustando manualmente los valores y usando referencias visuales para lograr mayor precisión.
+Pude ir resolviendo este tipo de problemas ajustando manualmente los valores de aquellas figuras que no me convencia su ubicación y usando las referencias de p5js para lograr mayor precisión.
 
 ---
 
