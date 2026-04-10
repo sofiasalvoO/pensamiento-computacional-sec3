@@ -1,8 +1,8 @@
 # Recreación obra "Tres"
 
 ## Información de la obra
-- **Nombre:** Tres  
-- **Autor:** Iordanov  
+- **Nombre:** "Tres" - 2006
+- **Autor:** Jérémie Iordanoff  
 
 ### Imagen original
 ![Obra original](Imagenes/obra_original_iordanoff.jpg)
