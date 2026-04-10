@@ -5,7 +5,7 @@
 - **Autor:** Iordanov  
 
 ### Imagen original
-![Obra original](imagenes/obra_original_iordanoff.jpg)
+![Obra original](Imagenes/obra_original_iordanoff.jpg)
 
 ---
 
@@ -35,13 +35,15 @@ Fui ajustando manualmente los valores y usando referencias visuales para lograr 
 ---
 
 ## Documentación visual
-
+### Metodología
+![Metodología](Imagenes/Metodologia_digital_photoshop.png)
 ### Proceso
-![Proceso](imagenes/proceso1.jpg)
-![Proceso](imagenes/proceso2.jpg)
+![Proceso](Imagenes/Error_1.png)
+![Proceso](Imagenes/Avance_1.png)
+![Proceso](Imagenes/Avance_2.png)
 
 ### Resultado final
-![Resultado](imagenes/resultado.png)
+![Resultado](Imagenes/Resultado_final.png)
 
 ---
 
