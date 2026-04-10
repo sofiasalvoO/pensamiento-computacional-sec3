@@ -16,7 +16,7 @@ Elegí esta obra basandome en que su composición geométrica era clara, con for
 
 ### Análisis de la obra
 Primero observé la obra para identificar que la composición está organizada en filas horizontales y en una estructura central simétrica.
-También analicé lapaleta de colores, notando que hay una paleta limitada pero con alto contraste entre tonos cálidos y fríos. Esto fue importante para lograr una representación fiel.
+También analicé la paleta de colores, notando que hay una paleta limitada pero con alto contraste entre tonos cálidos y fríos. Esto fue importante para lograr una representación fiel.
 En cuanto a proporciones, me fijé en cómo se divide el espacio del lienzo, especialmente en la relación entre las secciones superiores, centrales y inferiores.
 
 ### Traducción a código
